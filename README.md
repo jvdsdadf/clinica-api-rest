@@ -36,8 +36,11 @@ cd clinica-api-rest/api
 Criar venv e instalar:
 
 py -m venv venv
+
 venv\Scripts\activate
-py -m pip install -r requirements.txtConfigurar variáveis de ambiente
+
+py -m pip install -r requirements.txt
+
 Crie um arquivo .env (ou use .env.example) com:
 
 DB_HOST=
