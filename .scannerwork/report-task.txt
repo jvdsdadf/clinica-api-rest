@@ -1,0 +1,7 @@
+organization=jvdsdadf
+projectKey=jvdsdadf_clinica-api-rest
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.78648
+dashboardUrl=https://sonarcloud.io/dashboard?id=jvdsdadf_clinica-api-rest
+ceTaskId=AZvd0fhmRKHdbGss6eQz
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZvd0fhmRKHdbGss6eQz

@@ -1,0 +1,89 @@
+
+1.0PythonFrontend"1768953015923*py2.Bý
+
+imports1
+
+extends2
+
+returns3
+
+	has param4
+
+module5
+
+
+class6
+
+function7
+
+app/schemas/medicamento.py9
+
+medicamento11
+
+pydantic.ConfigDict12
+
+pydantic14
+
+typing16
+#
+medicamento.MedicamentoUpdate18
+!
+medicamento.MedicamentoBase20
+
+pydantic.main.BaseModel22
+#
+medicamento.MedicamentoCreate24
+ 
+medicamento.MedicamentoOut26J
+
+8
+89jÒ
+ 
+10
+10115 *
+8 (
+
+13
+13125
+
+15
+15145
+
+17
+17165
+
+19
+19186 210
+
+21
+21206 210
+
+23
+23226
+
+25
+25246 210
+
+27
+27266 210r¶
+
+10131*
+8! (+
+
+10151*
+8 (+
+
+10171*
+8 (
+
+19212*
+8 (
+
+21232*
+8 (
+
+25212*
+8 (
+
+27212*
+8 (
