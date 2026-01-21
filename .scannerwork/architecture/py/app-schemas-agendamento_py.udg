@@ -1,98 +1,0 @@
-
-1.0PythonFrontend"1768953015762*py2.B‘
-
-imports1
-
-extends2
-
-returns3
-
-	has param4
-
-module5
-
-
-class6
-
-function7
-
-app/schemas/agendamento.py9
-
-agendamento11
-
-
-__future__12
-
-datetime14
-
-pydantic.ConfigDict16
-
-pydantic18
-#
-agendamento.AgendamentoUpdate20
-
-pydantic.main.BaseModel22
-!
-agendamento.AgendamentoBase24
-#
-agendamento.AgendamentoCreate26
- 
-agendamento.AgendamentoOut28J
-
-8
-89jå
- 
-10
-10115 *
-8 (
-
-13
-13125
-
-15
-15145
-
-17
-17165
-
-19
-19185
-
-21
-21206 210
-
-23
-23226
-
-25
-25246 210
-
-27
-27266 210
-
-29
-29286 210rÐ
-
-10131*
-8 (#
-
-10151*
-8 ($
-
-10171*
-8! (+
-
-10191*
-8 (+
-
-21232*
-8 (
-
-25232*
-8 (
-
-27252*
-8 (
-
-29252*
-8 (

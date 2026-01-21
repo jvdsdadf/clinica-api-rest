@@ -1,193 +1,0 @@
-
-1.0PythonFrontend"1768953016122*py2.B§
-
-imports1
-
-extends2
-
-returns3
-
-	has param4
-
-module5
-
-
-class6
-
-function7
-%
- app/services/paciente_service.py9
-
-paciente_service11
-
-
-__future__12
-
-starlette.status14
-
-fastapi16
-
-sqlalchemy.orm18
-=
-7app.repositories.paciente_repository.PacienteRepository20
-*
-$app.repositories.paciente_repository22
-)
-#app.schemas.paciente.PacienteCreate24
-)
-#app.schemas.paciente.PacienteUpdate26
-
-app.schemas.paciente28
-"
-app.models.paciente.Paciente30
-
-app.models.paciente32
-&
- paciente_service.PacienteService34
-/
-)paciente_service.PacienteService.__init__36
-$
-sqlalchemy.orm.session.Session38
--
-'paciente_service.PacienteService.listar40
-
-
-list42
-4
-.paciente_service.PacienteService.buscar_por_id44
-	
-int46
-0
-*paciente_service.PacienteService.atualizar48
-,
-&paciente_service.PacienteService.criar50
-.
-(paciente_service.PacienteService.remover52
-
-NoneType54J
-
-8
-89jî
- 
-10
-10115 *
-8 (
-
-13
-13125
-
-15
-15145
-
-17
-17165
-
-19
-19185
-
-21
-21205
-
-23
-23225
-
-25
-25245
-
-27
-27265
-
-29
-29285
-
-31
-31305
-
-33
-33325
-
-35
-35346 210
-
-37
-37367 235
-
-39
-39386
-
-41
-41407 235
-
-43
-43426
-
-45
-45447 235
-
-47
-47466
-
-49
-49487 235
-
-51
-51507 235
-
-53
-53527 235
-
-55
-55546rº
-
-10131*
-8 (#
-
-10151*
-8$ (*
-
-10171*
-8 (*
-
-10191*
-8 (#
-
-10211*
-82 (D
-
-10231*
-8 (D
-
-10251*
-8" (0
-
-10271*
-82 (@
-
-10291*
-8 (@
-
-10311*
-8! ()
-
-10331*
-8 ()
-
-37394*
-8
-	 
-(
-
-41433*
-8	 (
-
-45474*
-8	 (
-
-49474*
-8	 (
-
-53553*
-8 	  (
-
-53474*
-8 	  (
